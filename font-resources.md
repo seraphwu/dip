@@ -1,10 +1,10 @@
-# 字體資源
+## 字體
 
 有的日文字體，有支援漢字但可能缺字
 
-## 襯線字體
+### 襯線字體
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk)||
 |源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||
@@ -28,9 +28,9 @@
 |教育部國字標準字體字形檔宋體 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=48)||
 
 
-## 非襯線字體
+### 非襯線字體
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |Noto Sans CJK|[連結](https://github.com/notofonts/noto-cjk)||
 |源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||
@@ -55,9 +55,9 @@
 |全字庫正楷體|[連結](https://data.gov.tw/dataset/5961)||
 |教育部國字標準字體字形檔楷書 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=47)||
 
-## 圓體字體
+### 圓體字體
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |源泉圓體|[連結](https://github.com/ButTaiwan/gensen-font)||
 |Zen Maru Gothic|[連結](https://fonts.google.com/specimen/Zen+Maru+Gothic)|日文字體，有支援漢字但可能缺字|
@@ -65,15 +65,15 @@
 |源柔ゴシック|[連結](http://jikasei.me/font/genjyuu/)||
 |マメロン Hi-Regular|[連結](https://moji-waku.com/mamelon/index.html)|日文字體，有支援漢字但可能缺字|
 
-## 注音字體
+### 注音字體
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |注音字體|[連結](https://github.com/ButTaiwan/bpmfvs)||
 
-## 手寫字體（手寫字體有可能會有缺字）
+### 手寫字體（手寫字體有可能會有缺字）
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |清松手寫體|[連結](https://github.com/jasonhandwriting/JasonHandwriting)||
 |辰宇落雁體|[連結](https://github.com/Chenyu-otf/chenyuluoyan_thin)||
@@ -84,9 +84,9 @@
 |こども丸ゴシック細め|[連結](https://typingart.net/?p=51)|日文字體，有支援漢字但可能缺字|
 |一點鋼筆鶴體|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94)||
 
-## 書法字體
+### 書法字體
 
-|字體名稱　　　　　　　　　　|連結|備註|
+|字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　|
 |---|---|---|
 |一點顏|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94)||
 |教育部國字標準字體字形檔 隸書|[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=49)||

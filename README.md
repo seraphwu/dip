@@ -1,3 +1,3 @@
 # 數位影像處理資源
 ---
-## [字體](font-resources.md)
+## [字體資源](font-resources.md)

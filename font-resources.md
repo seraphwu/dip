@@ -1,13 +1,3 @@
----
-title: "字體資源"
-date: 2024-09-13T23:56:50+08:00
-tags: ["fonts"]
-categories: ["數位影像處理"]
-draft: false
-author: "seraph wu"
-isCJKLanguage: true
----
-
 # 字體
 
 有的日文字體，有支援漢字但可能缺字

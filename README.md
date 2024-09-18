@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd02310e-e5fd-43b7-81f0-631246ea8c08)# 數位影像處理資源
+# 數位影像處理資源
 ---
 ## [字體資源](font-resources.md)
 

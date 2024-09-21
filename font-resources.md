@@ -20,6 +20,7 @@
 |IPAex明朝 |[連結](https://moji.or.jp/ipafont/ipaex00401/)||
 |こころ明朝体|[連結](https://typingart.net/?p=46)|日文字體|
 |はんなり明朝|[連結](https://typingart.net/?p=44)|日文字體|
+|Hina 明朝|[連結](https://github.com/satsuyako/Hina-Mincho)|日文字體|
 |霞鶩緻宋|[連結](https://github.com/lxgw/LxgwZhiSong)||
 |裝甲明朝體 |~~[連結](http://flopdesign.com/blog/font/5228/)~~|(原開發者網站已關閉，需上網搜尋下載)|
 |源界明朝體 |~~[連結](https://flopdesign.com/blog/font/5146/)~~|(原開發者網站已關閉，需上網搜尋下載)|

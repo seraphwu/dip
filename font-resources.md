@@ -6,7 +6,7 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✓|
+|Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk){:target="_blank" rel="noopener"}|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✓|
 |源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✓|
 |源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✓|
 |源雲明體 |[連結](https://github.com/ButTaiwan/genwan-font)||✓|

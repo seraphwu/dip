@@ -15,8 +15,7 @@
 |昭源宋體 |[連結](https://github.com/chiron-fonts/chiron-sung-hk)|||
 |花園明朝 |[連結](https://zh.osdn.net/projects/hanazono-font/)|A為常用字體可能涵蓋很多漢字體|✓|
 |花園明朝・AFDKO版 |[連結](https://github.com/cjkvi/HanaMinAFDKO)||✓|
-|一點明朝體 |[連結](https://github.com/ichitenfont/I.Ming)||✓|
-|一點明朝體網頁字體 |[連結](https://github.com/ichitenfont/I.MingWebfont)||✓|
+|一點明朝體 |[連結](https://github.com/ichitenfont/I.Ming)|[一點明朝體網頁字體 ](https://github.com/ichitenfont/I.MingWebfont)|✓|
 |IPAex明朝 |[連結](https://moji.or.jp/ipafont/ipaex00401/)|||
 |こころ明朝体|[連結](https://typingart.net/?p=46)|日文字體||
 |はんなり明朝|[連結](https://typingart.net/?p=44)|日文字體||

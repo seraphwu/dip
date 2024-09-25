@@ -6,7 +6,7 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk)||✓|
+|Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✓|
 |源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✓|
 |源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✓|
 |源雲明體 |[連結](https://github.com/ButTaiwan/genwan-font)||✓|
@@ -28,14 +28,14 @@
 |全字庫宋體 |[連結](https://data.gov.tw/dataset/5961)|||
 |教育部國字標準字體字形檔宋體 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=48)|||
 
-[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)
+
 
 
 ### 非襯線字體
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Sans CJK|[連結](https://github.com/notofonts/noto-cjk)||✓|
+|Noto Sans CJK|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/googlefonts/noto-cjk/raw/main/Sans/SuperOTC/NotoSansCJK.ttc.zip)|✓|
 |源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||✓|
 |源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✓|
 |台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✓|
@@ -58,7 +58,6 @@
 |全字庫正楷體|[連結](https://data.gov.tw/dataset/5961)|||
 |教育部國字標準字體字形檔楷書 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=47)|||
 
-[Noto Sans CJK Super OTC](https://github.com/googlefonts/noto-cjk/raw/main/Sans/SuperOTC/NotoSansCJK.ttc.zip)
 
 
 ### 圓體字體

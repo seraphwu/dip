@@ -21,8 +21,8 @@
 |はんなり明朝|[連結](https://typingart.net/?p=44)|日文字體||
 |Hina 明朝|[連結](https://github.com/satsuyako/Hina-Mincho)|日文字體||
 |霞鶩緻宋|[連結](https://github.com/lxgw/LxgwZhiSong)|||
-|裝甲明朝體 |~~[連結](http://flopdesign.com/blog/font/5228/)~~|(原開發者網站已關閉，[點此下載](https://github.com/seraphwu/dip/SoukouMincho.ttf))||
-|源界明朝體 |~~[連結](https://flopdesign.com/blog/font/5146/)~~|(原開發者網站已關閉，[點此下載](https://github.com/seraphwu/dip/genkai-mincho.ttf))||
+|裝甲明朝體 |~~[連結](http://flopdesign.com/blog/font/5228/)~~|(原開發者網站已關閉，[點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/SoukouMincho.ttf))||
+|源界明朝體 |~~[連結](https://flopdesign.com/blog/font/5146/)~~|(原開發者網站已關閉，[點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/genkai-mincho.ttf))||
 |瀞ノグリッチ明朝 |[連結](https://github.com/amazusa/ToronoGlitch)|加入故障雜訊效果||
 |全字庫宋體 |[連結](https://data.gov.tw/dataset/5961)|||
 |教育部國字標準字體字形檔宋體 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=48)|||

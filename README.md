@@ -3,6 +3,7 @@
 ## 名片 mockup 檔下載：
 <a href="https://dip.project.solmag.tw/mockup-businesscard.zip" download>名片mockup</a><br>
 source: <https://www.freeimages.com/psd/realistic-business-card-mockup-5463381>
+<a href="https://dip.project.solmag.tw/i/cloud.png" download>雲朵練習檔下載</a>
 ---
 ## [字體資源](font-resources.md)
 <a href="https://dip.project.solmag.tw/i/newjeans.png" download>練習檔</a>

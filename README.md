@@ -4,6 +4,7 @@
 <a href="https://dip.project.solmag.tw/mockup-businesscard.zip" download>名片mockup</a><br>
 source: <https://www.freeimages.com/psd/realistic-business-card-mockup-5463381><br>
 <a href="https://dip.project.solmag.tw/i/cloud.png" download>雲朵練習檔下載</a>
+<img src="i/Kapture 2024-10-14 at 21.59.27.gif">社群圖片類輪播效果
 ---
 ## [字體資源](font-resources.md)
 <a href="https://dip.project.solmag.tw/i/newjeans.png" download>練習檔</a>

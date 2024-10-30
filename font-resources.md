@@ -68,6 +68,7 @@
 |jf Open 粉圓|[連結](https://github.com/justfont/open-huninn-font)||✓|
 |源柔ゴシック|[連結](http://jikasei.me/font/genjyuu/)||✓|
 |資源圓體|[連結](https://github.com/CyanoHao/Resource-Han-Rounded/)||✓|
+|台灣圓體|[連結](https://github.com/max32002/TaiwanPearl)||✓|
 |マメロン Hi-Regular|[連結](https://moji-waku.com/mamelon/index.html)|日文字體，有支援漢字但可能缺字||
 
 ### 注音字體

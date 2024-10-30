@@ -67,6 +67,7 @@
 |Zen Maru Gothic|[連結](https://fonts.google.com/specimen/Zen+Maru+Gothic)|日文字體，有支援漢字但可能缺字||
 |jf Open 粉圓|[連結](https://github.com/justfont/open-huninn-font)||✓|
 |源柔ゴシック|[連結](http://jikasei.me/font/genjyuu/)||✓|
+|資源圓體|[連結](https://github.com/CyanoHao/Resource-Han-Rounded/)||✓|
 |マメロン Hi-Regular|[連結](https://moji-waku.com/mamelon/index.html)|日文字體，有支援漢字但可能缺字||
 
 ### 注音字體
@@ -86,6 +87,7 @@
 |內海字體|[連結](https://github.com/max32002/naikaifont)|基於瀨戶字體||
 |小賴|[連結](https://github.com/lxgw/kose-font)|基於瀨戶字體、內海字體|✓|
 |こども丸ゴシック細め|[連結](https://typingart.net/?p=51)|日文字體，有支援漢字但可能缺字||
+|悠哉字體|[連結](https://github.com/lxgw/yozai-font/)|||
 |一點鋼筆鶴體|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94)|||
 
 ### 書法字體

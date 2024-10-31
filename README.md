@@ -12,3 +12,7 @@
 <a href="https://dip.project.solmag.tw/layer.psd" download>layer 範例 PSD</a>
 ---
 [^1]:source: <https://www.freeimages.com/psd/realistic-business-card-mockup-5463381>
+---
+配色網站
+[Coolors.co](https://coolors.co/generate)
+![](https://cdn.img2ipfs.com/ipfs/QmWqVk8asJERp8FRMxyP5QQPyHFF2iXDmyRKcATiqosBPL?filename=b4845743-bcdf-4693-a22a-376bec5fd33d.png)

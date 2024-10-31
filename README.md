@@ -8,8 +8,8 @@
 <img src="i/Kapture 2024-10-14 at 21.59.27.gif">
 
 ## [字體資源](font-resources.md)
-<a href="https://dip.project.solmag.tw/i/newjeans.png" download>練習檔</a>
-<a href="https://dip.project.solmag.tw/layer.psd" download>layer 範例 PSD</a>
+~~<a href="https://dip.project.solmag.tw/i/newjeans.png" download>練習檔</a>~~
+~~<a href="https://dip.project.solmag.tw/layer.psd" download>layer 範例 PSD</a>~~
 ---
 [^1]:source: <https://www.freeimages.com/psd/realistic-business-card-mockup-5463381>
 ---
@@ -20,3 +20,6 @@
 
 [NIPPON COLORS](https://nipponcolors.com/)
 ![](https://cdn.img2ipfs.com/ipfs/QmaKorpGnWwLwFdUjMYSRuNuNX99tiioJMwzbA7Megbc9X?filename=336bab11-eea4-4d70-ba68-1c44ff2095d0.png)
+
+[Colour Contrast Checker](https://colourcontrast.cc/)
+![](https://cdn.img2ipfs.com/ipfs/QmXBwFDR7mLZdqCXak86TpwHVTSQcDBrPGDUj5WqkmRDti?filename=9b8802c6-82a1-4800-aa5f-7028f2cf48ee.png)

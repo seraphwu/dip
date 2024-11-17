@@ -1,5 +1,8 @@
 # 數位影像處理資源
 
+## Brand identity guidelines Template
+<https://www.behance.net/gallery/88198917/Free-Brand-identity-guidelines-template>
+
 ## 名片 mockup 檔下載：
 <a href="https://dip.project.solmag.tw/mockup-businesscard.zip" download>名片mockup</a>[^1]
 

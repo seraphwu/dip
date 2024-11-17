@@ -22,7 +22,8 @@
 
 [Coolors.co](https://coolors.co/generate)
 每次都會產生五個顏色的配色，缺顏色搭配可使用
-![](https://cdn.img2ipfs.com/ipfs/QmWqVk8asJERp8FRMxyP5QQPyHFF2iXDmyRKcATiqosBPL?filename=b4845743-bcdf-4693-a22a-376bec5fd33d.png)
+
+![](i/i-coolors.png)
 
 [NIPPON COLORS](https://nipponcolors.com/)
 NIPPON COLORS 日本色的配色網站，一樣缺顏色搭配的可以使用

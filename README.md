@@ -3,7 +3,7 @@
 ## Brand identity guidelines Template
 <a href="">asdfasf</a>[^2]
 <a href="">asdfasf</a>[^3]
-[^2]:source: <https://www.behance.net/gallery/88198917/Free-Brand-identity-guidelines-template>
+~~[^2]:source: <https://www.behance.net/gallery/88198917/Free-Brand-identity-guidelines-template>~~
 [^3]:source: <https://www.freepik.com/free-vector/brand-manual-template-design_33758371.htm#fromView=search&page=1&position=18&uuid=0681baf2-3bc3-4580-8943-11ef5b8be401>
 ## 名片 mockup 檔下載：
 <a href="https://dip.project.solmag.tw/mockup-businesscard.zip" download>名片mockup</a>[^1]

@@ -19,4 +19,5 @@ Illustrator 開新檔案
 ![](i/i-carousel.png)
 
 例如麥當勞貼文裡的文字，除了就地貼上( shift + ctrl + v / )，但要每個工作區域都進行一遍。
+
 可以使用選單中編輯 → **在所有工作區域上貼上** ( alt + shift + ctrl + v / )

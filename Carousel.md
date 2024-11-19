@@ -14,3 +14,6 @@ Illustrator 開新檔案
 按下 → （依橫欄排列順序），間距調整成 0 ，按下確定。
 工作區域就會呈現下圖：
 ![](i/Illustrator_cOPRGfLRWW.png)
+將連續的圖，橫跨 4 個工作區域，再輸出圖片，發布至社群就可以產生滑動有輪播感的貼文
+就像[麥當勞脆文](https://www.threads.net/@mcdonaldstw/post/DBK7t6evWtU?xmt=AQGzKXlSgUBm9Snipytc4wTW_40p5X316IDxXiOzGMpZiw)：
+![](i/i-carousel.png)

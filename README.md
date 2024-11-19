@@ -1,5 +1,9 @@
 # 數位影像處理資源
 
+## 替截圖加上瀏覽器邊框
+[BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)
+![](i/dc9a799c-2c08-435f-9033-425853770558.png)
+
 ## Brand identity guidelines Template
 
 - [Brand-identity-guidelines.zip](https://raw.githubusercontent.com/seraphwu/dip/main/Brand-identity-guidelines.zip)[^2]

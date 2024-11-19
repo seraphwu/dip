@@ -22,4 +22,4 @@ Illustrator 開新檔案
 
 例如麥當勞貼文裡的文字，除了就地貼上( <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>v</kbd> / )，但要每個工作區域都進行一遍。
 
-可以使用選單中編輯 → **在所有工作區域上貼上** ( <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>V</kbd> / <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>V</kbd> )
+可以使用選單中編輯 → **在所有工作區域上貼上** ( <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>V</kbd> / <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>V</kbd> ) 一次就可以全部貼在同樣位置。

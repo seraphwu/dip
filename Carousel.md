@@ -1,1 +1,1 @@
-<img src="i/Carousel-sample.gif">
+![](i/Carousel-sample.gif)

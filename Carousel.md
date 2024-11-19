@@ -20,6 +20,6 @@ Illustrator 開新檔案
 就像[麥當勞脆文](https://www.threads.net/@mcdonaldstw/post/DBK7t6evWtU?xmt=AQGzKXlSgUBm9Snipytc4wTW_40p5X316IDxXiOzGMpZiw)：
 ![](i/i-carousel.png)
 
-例如麥當勞貼文裡的文字，除了就地貼上( <kbd>shift</kbd> + ctrl + v / )，但要每個工作區域都進行一遍。
+例如麥當勞貼文裡的文字，除了就地貼上( <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>v</kbd> / )，但要每個工作區域都進行一遍。
 
-可以使用選單中編輯 → **在所有工作區域上貼上** ( alt + shift + ctrl + v / Option + Shift + Command + V )
+可以使用選單中編輯 → **在所有工作區域上貼上** ( <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>V</kbd> / <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>V</kbd> )

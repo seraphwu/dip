@@ -1,7 +1,7 @@
 # 數位影像處理資源
 
 ## AI 指令檔輸出色碼 (renderSwatchLegend)
-- [點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/renderSwatchLegend.jsx.zip)
+- [點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/assets/renderSwatchLegend.jsx.zip)
 
 安裝方式：
 下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置(繁體中文)：

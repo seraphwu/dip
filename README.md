@@ -4,11 +4,11 @@
 - [點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/renderSwatchLegend.jsx.zip)
 
 安裝方式：
-下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置：
+下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置(繁體中文)：
 - Windows:
-  C:\Program Files\Adobe\Illustrator\Presets\{語言}\Scripts
+  C:\Program Files\Adobe\Illustrator\Presets\zh_TW\Scripts
 - Mac:
-  /Applications/Illustrator/Presets/{語言}/Scripts
+  /Applications/Illustrator/Presets/zh_TW/Scripts
 
 ## 替截圖加上瀏覽器邊框
 [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)

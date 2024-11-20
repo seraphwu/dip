@@ -1,5 +1,15 @@
 # 數位影像處理資源
 
+## AI 指令檔輸出色碼 (renderSwatchLegend)
+- [點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/renderSwatchLegend.jsx.zip)
+
+安裝方式：
+下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置：
+- Windows:
+  C:\Program Files\Adobe\Illustrator\Presets\{語言}\Scripts
+- Mac:
+  /Applications/Illustrator/Presets/{語言}/Scripts
+
 ## 替截圖加上瀏覽器邊框
 [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)
 ![](i/dc9a799c-2c08-435f-9033-425853770558.png)

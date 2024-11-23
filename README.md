@@ -1,6 +1,6 @@
 # 數位影像處理資源
 ## Free Mockup 網站
-[mockups-design](https://mockups-design.com)
+[mockups-design](https://mockups-design.com) 可商用
 ![](i/i-mockups-design.com.png)
 
 ## AI 指令檔輸出色碼 (renderSwatchLegend)

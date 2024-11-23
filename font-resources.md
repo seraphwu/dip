@@ -96,4 +96,5 @@
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
 |一點顏|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94)|||
+|齊伋體|[連結](https://github.com/LingDong-/qiji-font)|||
 |教育部國字標準字體字形檔 隸書|[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=49)|||

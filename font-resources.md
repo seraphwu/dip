@@ -97,4 +97,5 @@
 |---|---|---|---|
 |一點顏|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94)|||
 |齊伋體|[連結](https://github.com/LingDong-/qiji-font)|||
+|京華老宋體|[連結](https://zhuanlan.zhihu.com/p/677725322)|[Goodle Drive](https://drive.google.com/file/d/1WQu8_LaS5JRn9Fd03cxWpT4LA9H9HC7T/view?usp=sharing)||
 |教育部國字標準字體字形檔 隸書|[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=49)|||

@@ -9,7 +9,7 @@
 安裝方式：
 下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置(繁體中文)：
 - Windows:
-  \"C:\Program Files\Adobe\Illustrator 2024\Presets\zh_TW\Scripts\"
+  \"C:\Program Files\Adobe\Adobe Illustrator 2024\Presets\zh_TW\指令檔"
 - Mac:
   /Applications/Illustrator/Presets/zh_TW/Scripts
 

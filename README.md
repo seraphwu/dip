@@ -26,6 +26,12 @@
 ## 名片 mockup 檔下載：
 - <a href="https://dip.project.solmag.tw/mockup-businesscard.zip" download>名片mockup</a>[^1]
 - <a href="https://raw.githubusercontent.com/seraphwu/dip/main/i/cloud.png" download>雲朵練習檔下載</a>
+
+## 海報 mockup 檔下載:
+![](i/d56b2610249145.560e1d0ae8f5b.jpg)
+- <a href="https://raw.githubusercontent.com/seraphwu/dip/main/assets/poster_mockup_MD.psd.zip">海報 mockup</a>[^4]
+
+[^4]:source: <https://www.behance.net/gallery/10249145/Free-Poster-Mockup>
 ### [社群圖片類輪播效果](Carousel.md)
 <img src="i/Kapture 2024-10-14 at 21.59.27.gif">
 

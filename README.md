@@ -9,9 +9,13 @@
 安裝方式：
 下載解壓縮，取得 renderSwatchLegend.jsx，複製貼上至以下位置(繁體中文)：
 - Windows:(例如目前是2024)
-  \"C:\Program Files\Adobe\Adobe Illustrator [vers.]\Presets\zh_TW\指令檔"
+  ```
+  "C:\Program Files\Adobe\Adobe Illustrator [vers.]\Presets\zh_TW\指令檔"
+  ```
 - Mac:(例如目前是2024)
+  ```
   /Applications/Adobe Illustrator [vers.]/Presets.localized/zh_TW/指令檔
+  ```
 
 ## 替截圖加上瀏覽器邊框
 [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)

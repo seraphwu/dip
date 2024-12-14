@@ -27,6 +27,7 @@
 |源界明朝體 |~~[連結](https://flopdesign.com/blog/font/5146/)~~|(原開發者網站已關閉，[點此下載](https://raw.githubusercontent.com/seraphwu/dip/main/genkai-mincho.ttf))||
 |瀞ノグリッチ明朝 |[連結](https://github.com/amazusa/ToronoGlitch)|加入故障雜訊效果||
 |焰明朝|[連結](https://fontgraphic.jp/download/fg-homura/)|日文字體|
+|B2 花園|[連結](https://github.com/max32002/max-hana)|花園明朝改製字體||
 |全字庫宋體 |[連結](https://data.gov.tw/dataset/5961)|||
 |教育部國字標準字體字形檔宋體 |[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=48)|||
 

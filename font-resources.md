@@ -6,16 +6,16 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Serif CJK |[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✓|
-|源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✓|
-|源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✓|
-|源雲明體 |[連結](https://github.com/ButTaiwan/genwan-font)||✓|
+|Noto Serif CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✅|
+|源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✅|
+|源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✅|
+|源雲明體 |[連結](https://github.com/ButTaiwan/genwan-font)||✅|
 |しっぽり明朝 |[連結](https://github.com/fontdasu/ShipporiMincho)|||
 |Zen Antique |[連結](https://fonts.google.com/specimen/Zen+Antique)|||
 |昭源宋體 |[連結](https://github.com/chiron-fonts/chiron-sung-hk)|||
-|花園明朝 |[連結](https://zh.osdn.net/projects/hanazono-font/)|A為常用字體可能涵蓋很多漢字體|✓|
-|花園明朝・AFDKO版 |[連結](https://github.com/cjkvi/HanaMinAFDKO)||✓|
-|一點明朝體 |[連結](https://github.com/ichitenfont/I.Ming)|[一點明朝體網頁字體 ](https://github.com/ichitenfont/I.MingWebfont)|✓|
+|花園明朝 |[連結](https://zh.osdn.net/projects/hanazono-font/)|A為常用字體可能涵蓋很多漢字體|✅|
+|花園明朝・AFDKO版 |[連結](https://github.com/cjkvi/HanaMinAFDKO)||✅|
+|一點明朝體 |[連結](https://github.com/ichitenfont/I.Ming)|[一點明朝體網頁字體 ](https://github.com/ichitenfont/I.MingWebfont)|✅|
 |IPAex明朝 |[連結](https://moji.or.jp/ipafont/ipaex00401/)|||
 |こころ明朝体|[連結](https://typingart.net/?p=46)|日文字體||
 |はんなり明朝|[連結](https://typingart.net/?p=44)|日文字體||
@@ -38,19 +38,19 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Sans CJK|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/googlefonts/noto-cjk/raw/main/Sans/SuperOTC/NotoSansCJK.ttc.zip)|✓|
-|源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||✓|
-|源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✓|
-|台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✓|
-|IBM Plex Sans TC|[連結](https://github.com/IBM/plex/tree/master/packages/plex-sans-tc)||✓|
+|Noto Sans CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/googlefonts/noto-cjk/raw/main/Sans/SuperOTC/NotoSansCJK.ttc.zip)|✅|
+|源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||✅|
+|源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✅|
+|台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✅|
+|IBM Plex Sans TC|[連結](https://github.com/IBM/plex/tree/master/packages/plex-sans-tc)||✅|
 |しっぽりアンチック|[連結](https://github.com/fontdasu/ShipporiAntique)|||
 |昭源黑體|[連結](https://github.com/chiron-fonts/chiron-hei-hk)|||
 |瀞ノグリッチ黒体|[連結](https://github.com/amazusa/ToronoGlitch)|加入故障雜訊效果||
-|饅頭黑體|[連結](https://github.com/mant0u0/MantouSans)||✓|
+|饅頭黑體|[連結](https://github.com/mant0u0/MantouSans)||✅|
 |秋空黑體|[連結](https://github.com/ChiuMing-Neko/ChiuKongGothic)|||
 |白源 (はくげん／HackGen)|[連結](https://github.com/yuru7/HackGen/) |日文字體，有支援漢字但可能缺字||
 |源真ゴシック|[連結](http://jikasei.me/font/genshin/) |日文字體，有支援漢字但可能缺字||
-|芫荽|[連結](https://github.com/ButTaiwan/iansui)|基於 Klee One|✓|
+|芫荽|[連結](https://github.com/ButTaiwan/iansui)|基於 Klee One|✅|
 |未來熒黑|[連結](https://github.com/welai/glow-sans)|||
 |更紗黑體|[連結](https://github.com/be5invis/Sarasa-Gothic)|||
 |IPAexゴシック|[連結](https://moji.or.jp/ipafont/ipaex00401/)|||
@@ -67,13 +67,14 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|源泉圓體|[連結](https://github.com/ButTaiwan/gensen-font)||✓|
+|源泉圓體|[連結](https://github.com/ButTaiwan/gensen-font)||✅|
 |Zen Maru Gothic|[連結](https://fonts.google.com/specimen/Zen+Maru+Gothic)|日文字體，有支援漢字但可能缺字||
-|jf Open 粉圓|[連結](https://github.com/justfont/open-huninn-font)||✓|
-|源柔ゴシック|[連結](http://jikasei.me/font/genjyuu/)||✓|
-|資源圓體|[連結](https://github.com/CyanoHao/Resource-Han-Rounded/)||✓|
-|台灣圓體|[連結](https://github.com/max32002/TaiwanPearl)||✓|
+|jf Open 粉圓|[連結](https://github.com/justfont/open-huninn-font)||✅|
+|源柔ゴシック|[連結](http://jikasei.me/font/genjyuu/)||✅|
+|資源圓體|[連結](https://github.com/CyanoHao/Resource-Han-Rounded/)||✅|
+|台灣圓體|[連結](https://github.com/max32002/TaiwanPearl)||✅|
 |マメロン Hi-Regular|[連結](https://moji-waku.com/mamelon/index.html)|日文字體，有支援漢字但可能缺字||
+|昭源環方 |[連結](https://github.com/chiron-fonts/chiron-go-round-tc)|||
 
 ### 注音字體
 
@@ -90,7 +91,7 @@
 |隨峰體|[連結](https://cjkfonts.io/blog/ThePeakFont)|||
 |瀨戶字體|[連結](https://zh-tw.osdn.net/projects/setofont/)|||
 |內海字體|[連結](https://github.com/max32002/naikaifont)|基於瀨戶字體||
-|小賴|[連結](https://github.com/lxgw/kose-font)|基於瀨戶字體、內海字體|✓|
+|小賴|[連結](https://github.com/lxgw/kose-font)|基於瀨戶字體、內海字體|✅|
 |こども丸ゴシック細め|[連結](https://typingart.net/?p=51)|日文字體，有支援漢字但可能缺字||
 |悠哉字體|[連結](https://github.com/lxgw/yozai-font/)|||
 |一點鋼筆鶴體|[連結](https://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94)|||

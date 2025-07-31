@@ -38,7 +38,7 @@
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|
 |---|---|---|---|
-|Noto Sans CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/googlefonts/noto-cjk/raw/main/Sans/SuperOTC/NotoSansCJK.ttc.zip)|✅|
+|Noto Sans CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/notofonts/noto-cjk/releases/download/Sans2.004/00_NotoSansCJK.ttc.zip)|✅|
 |源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||✅|
 |源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✅|
 |台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✅|

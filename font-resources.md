@@ -56,6 +56,7 @@
 |IPAexゴシック|[連結](https://moji.or.jp/ipafont/ipaex00401/)|||
 |M+Fonts|[連結](https://mplusfonts.github.io/)|||
 |Klee One|[連結](https://github.com/fontworks-fonts/Klee)|||
+|糸 FONT|[連結](https://font.websozai.jp/line-font2-mihon.html)|日文字體，有可能支援漢字但可能缺字極細||
 |霞鶩晰黑|[連結](https://github.com/lxgw/LxgwXiHei)|||
 |霞鶩文楷|[連結](https://github.com/lxgw/LxgwWenKai)|基於 Klee One||
 |全字庫正楷體|[連結](https://data.gov.tw/dataset/5961)|||

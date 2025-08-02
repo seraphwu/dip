@@ -43,6 +43,7 @@
 |源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✅||
 |台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✅||
 |IBM Plex Sans TC|[連結](https://github.com/IBM/plex/tree/master/packages/plex-sans-tc)||✅||
+|LINE Seed TW|[連結](https://seed.line.me/index_tw.html)||✅||
 |しっぽりアンチック|[連結](https://github.com/fontdasu/ShipporiAntique)|||⭕|
 |昭源黑體|[連結](https://github.com/chiron-fonts/chiron-hei-hk)||||
 |瀞ノグリッチ黒体|[連結](https://github.com/amazusa/ToronoGlitch)|加入故障雜訊效果||⭕|

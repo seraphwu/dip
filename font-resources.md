@@ -5,7 +5,7 @@
 ### 襯線字體
 
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|日文字體|
-|---|---|---|:--:|::|
+|---|---|---|:--:|:--:|
 |Noto Serif CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✅||
 |源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✅||
 |源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✅||

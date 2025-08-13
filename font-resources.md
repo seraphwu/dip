@@ -106,3 +106,4 @@
 |齊伋體|[連結](https://github.com/LingDong-/qiji-font)||||
 |京華老宋體|[連結](https://zhuanlan.zhihu.com/p/677725322)|[Goodle Drive](https://drive.google.com/file/d/1WQu8_LaS5JRn9Fd03cxWpT4LA9H9HC7T/view?usp=sharing)|||
 |教育部國字標準字體字形檔 隸書|[連結](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=49)||||
+|字嶼雲遊手書|[連結](https://fontprime.com/font-detail/180.html)||||

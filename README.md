@@ -1,4 +1,4 @@
-# 數位影像處理資源
+# 數位圖像製作實務(原**數位影像處理**)資源
 ## Free Mockup 網站
 [mockups-design](https://mockups-design.com) 可商用
 ![](i/i-mockups-design.com.png)

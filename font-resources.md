@@ -60,6 +60,7 @@
 |M+Fonts|[連結](https://mplusfonts.github.io/)|||⭕|
 |Klee One|[連結](https://github.com/fontworks-fonts/Klee)|||⭕|
 |糸 FONT|[連結](https://font.websozai.jp/line-font2-mihon.html)|極細||⭕|
+|小杉|[連結](https://fonts.google.com/specimen/Kosugi)|||⭕|
 |霞鶩晰黑|[連結](https://github.com/lxgw/LxgwXiHei)||||
 |霞鶩文楷|[連結](https://github.com/lxgw/LxgwWenKai)|基於 Klee One|||
 |全字庫正楷體|[連結](https://data.gov.tw/dataset/5961)||||
@@ -79,6 +80,7 @@
 |台灣圓體|[連結](https://github.com/max32002/TaiwanPearl)||✅||
 |マメロン Hi-Regular|[連結](https://moji-waku.com/mamelon/index.html)||||
 |昭源環方 |[連結](https://github.com/chiron-fonts/chiron-go-round-tc)||||
+|小杉園體|[連結](https://fonts.google.com/specimen/Kosugi+Maru)|||⭕|
 
 ### 注音字體
 

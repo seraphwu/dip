@@ -7,7 +7,7 @@
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|日文字體|
 |---|---|---|:--:|:--:|
 |Noto Serif CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Serif CJK Super OTC](https://github.com/googlefonts/noto-cjk/releases/download/Serif2.003/01_NotoSerifCJK.ttc.zip)|✅||
-|夢源宋體 |[連結](https://github.com/Pal3love/dream-han-cjk/)|✅||
+|夢源宋體 |[連結](https://github.com/Pal3love/dream-han-cjk/)|[完整版](https://github.com/Pal3love/dream-han-cjk/releases/download/dream-3.03-sans-2.005-serif-2.003/DreamHanSerif.zip)|✅||
 |源樣明體 |[連結](https://github.com/ButTaiwan/genyo-font)||✅||
 |源流明體 |[連結](https://github.com/ButTaiwan/genryu-font)||✅||
 |源雲明體 |[連結](https://github.com/ButTaiwan/genwan-font)||✅||
@@ -40,7 +40,7 @@
 |字體名稱　　　　　　　　　　|連結|備註　　　　　　　　　　　　　　　|必裝|日文字體|
 |---|---|---|---|:--:|
 |Noto Sans CJK MEGA OTC|[連結](https://github.com/notofonts/noto-cjk)|[Noto Sans CJK Super OTC](https://github.com/notofonts/noto-cjk/releases/download/Sans2.004/00_NotoSansCJK.ttc.zip)|✅||
-|夢源黑體|[連結](https://github.com/Pal3love/dream-han-cjk/)|✅||
+|夢源黑體|[連結](https://github.com/Pal3love/dream-han-cjk/)|[完整版](https://github.com/Pal3love/dream-han-cjk/releases/download/dream-3.03-sans-2.005-serif-2.003/DreamHanSans.zip)|✅||
 |源樣黑體|[連結](https://github.com/ButTaiwan/genyog-font)||✅||
 |源石黑體|[連結](https://github.com/ButTaiwan/genseki-font)||✅||
 |台北黑體|[連結](https://sites.google.com/view/jtfoundry/)||✅||
